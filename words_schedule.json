@@ -1,0 +1,287 @@
+{
+  "2025-04-23": {
+    "theme": "Science & Discovery",
+    "words": [
+      {
+        "word": "word1",
+        "pos": "noun",
+        "translation": "перевод1",
+        "example": "Example usage of word1."
+      },
+      {
+        "word": "word2",
+        "pos": "noun",
+        "translation": "перевод2",
+        "example": "Example usage of word2."
+      },
+      {
+        "word": "word3",
+        "pos": "noun",
+        "translation": "перевод3",
+        "example": "Example usage of word3."
+      },
+      {
+        "word": "word4",
+        "pos": "noun",
+        "translation": "перевод4",
+        "example": "Example usage of word4."
+      },
+      {
+        "word": "word5",
+        "pos": "noun",
+        "translation": "перевод5",
+        "example": "Example usage of word5."
+      },
+      {
+        "word": "word6",
+        "pos": "noun",
+        "translation": "перевод6",
+        "example": "Example usage of word6."
+      },
+      {
+        "word": "word7",
+        "pos": "noun",
+        "translation": "перевод7",
+        "example": "Example usage of word7."
+      },
+      {
+        "word": "word8",
+        "pos": "noun",
+        "translation": "перевод8",
+        "example": "Example usage of word8."
+      },
+      {
+        "word": "word9",
+        "pos": "noun",
+        "translation": "перевод9",
+        "example": "Example usage of word9."
+      },
+      {
+        "word": "word10",
+        "pos": "noun",
+        "translation": "перевод10",
+        "example": "Example usage of word10."
+      },
+      {
+        "word": "word11",
+        "pos": "noun",
+        "translation": "перевод11",
+        "example": "Example usage of word11."
+      },
+      {
+        "word": "word12",
+        "pos": "noun",
+        "translation": "перевод12",
+        "example": "Example usage of word12."
+      },
+      {
+        "word": "word13",
+        "pos": "noun",
+        "translation": "перевод13",
+        "example": "Example usage of word13."
+      },
+      {
+        "word": "word14",
+        "pos": "noun",
+        "translation": "перевод14",
+        "example": "Example usage of word14."
+      },
+      {
+        "word": "word15",
+        "pos": "noun",
+        "translation": "перевод15",
+        "example": "Example usage of word15."
+      }
+    ]
+  },
+  "2025-04-24": {
+    "theme": "Technology",
+    "words": [
+      {
+        "word": "word16",
+        "pos": "verb",
+        "translation": "перевод16",
+        "example": "Example usage of word16."
+      },
+      {
+        "word": "word17",
+        "pos": "verb",
+        "translation": "перевод17",
+        "example": "Example usage of word17."
+      },
+      {
+        "word": "word18",
+        "pos": "verb",
+        "translation": "перевод18",
+        "example": "Example usage of word18."
+      },
+      {
+        "word": "word19",
+        "pos": "verb",
+        "translation": "перевод19",
+        "example": "Example usage of word19."
+      },
+      {
+        "word": "word20",
+        "pos": "verb",
+        "translation": "перевод20",
+        "example": "Example usage of word20."
+      },
+      {
+        "word": "word21",
+        "pos": "verb",
+        "translation": "перевод21",
+        "example": "Example usage of word21."
+      },
+      {
+        "word": "word22",
+        "pos": "verb",
+        "translation": "перевод22",
+        "example": "Example usage of word22."
+      },
+      {
+        "word": "word23",
+        "pos": "verb",
+        "translation": "перевод23",
+        "example": "Example usage of word23."
+      },
+      {
+        "word": "word24",
+        "pos": "verb",
+        "translation": "перевод24",
+        "example": "Example usage of word24."
+      },
+      {
+        "word": "word25",
+        "pos": "verb",
+        "translation": "перевод25",
+        "example": "Example usage of word25."
+      },
+      {
+        "word": "word26",
+        "pos": "verb",
+        "translation": "перевод26",
+        "example": "Example usage of word26."
+      },
+      {
+        "word": "word27",
+        "pos": "verb",
+        "translation": "перевод27",
+        "example": "Example usage of word27."
+      },
+      {
+        "word": "word28",
+        "pos": "verb",
+        "translation": "перевод28",
+        "example": "Example usage of word28."
+      },
+      {
+        "word": "word29",
+        "pos": "verb",
+        "translation": "перевод29",
+        "example": "Example usage of word29."
+      },
+      {
+        "word": "word30",
+        "pos": "verb",
+        "translation": "перевод30",
+        "example": "Example usage of word30."
+      }
+    ]
+  },
+  "2025-04-25": {
+    "theme": "Nature",
+    "words": [
+      {
+        "word": "word31",
+        "pos": "adj",
+        "translation": "перевод31",
+        "example": "Example usage of word31."
+      },
+      {
+        "word": "word32",
+        "pos": "adj",
+        "translation": "перевод32",
+        "example": "Example usage of word32."
+      },
+      {
+        "word": "word33",
+        "pos": "adj",
+        "translation": "перевод33",
+        "example": "Example usage of word33."
+      },
+      {
+        "word": "word34",
+        "pos": "adj",
+        "translation": "перевод34",
+        "example": "Example usage of word34."
+      },
+      {
+        "word": "word35",
+        "pos": "adj",
+        "translation": "перевод35",
+        "example": "Example usage of word35."
+      },
+      {
+        "word": "word36",
+        "pos": "adj",
+        "translation": "перевод36",
+        "example": "Example usage of word36."
+      },
+      {
+        "word": "word37",
+        "pos": "adj",
+        "translation": "перевод37",
+        "example": "Example usage of word37."
+      },
+      {
+        "word": "word38",
+        "pos": "adj",
+        "translation": "перевод38",
+        "example": "Example usage of word38."
+      },
+      {
+        "word": "word39",
+        "pos": "adj",
+        "translation": "перевод39",
+        "example": "Example usage of word39."
+      },
+      {
+        "word": "word40",
+        "pos": "adj",
+        "translation": "перевод40",
+        "example": "Example usage of word40."
+      },
+      {
+        "word": "word41",
+        "pos": "adj",
+        "translation": "перевод41",
+        "example": "Example usage of word41."
+      },
+      {
+        "word": "word42",
+        "pos": "adj",
+        "translation": "перевод42",
+        "example": "Example usage of word42."
+      },
+      {
+        "word": "word43",
+        "pos": "adj",
+        "translation": "перевод43",
+        "example": "Example usage of word43."
+      },
+      {
+        "word": "word44",
+        "pos": "adj",
+        "translation": "перевод44",
+        "example": "Example usage of word44."
+      },
+      {
+        "word": "word45",
+        "pos": "adj",
+        "translation": "перевод45",
+        "example": "Example usage of word45."
+      }
+    ]
+  }
+}
